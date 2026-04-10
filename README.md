@@ -1,63 +1,71 @@
 <h1 align="center">Hi 👋, I'm Tanvi</h1>
-<h3 align="center">🚀 Building real-world tech | AI • Cloud • Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Emergency+Tech+Builder;AWS+Cloud+Developer;AI+Enthusiast;Full+Stack+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Emergency+Tech+Builder;AWS+Cloud+Developer;AI+Explorer;Full+Stack+Engineer&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🌟 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech CSE (2023–2027)  
-- ☁️ Exploring **AWS, System Design & Scalable Apps**  
-- 🤖 Passionate about **AI + Real-world problem solving**  
-- 💡 Love building impactful systems, not just projects  
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 B.Tech CSE Student  
+- ☁️ AWS & System Design Enthusiast  
+- 🤖 Love AI + Real-world problem solving  
+- 🚑 Building impactful systems  
 
 ---
 
 ## 🚑 Featured Project
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300"/>
+</p>
+
 ### 🔥 Emergency Response Locator System
 
-> A real-time system to connect users with the nearest ambulance instantly
+✨ Find nearest ambulance instantly  
+📍 Real-time tracking  
+🧠 Smart routing using traffic data  
 
-**✨ Features:**
-- 📍 Find nearest ambulance using location data  
-- 🚑 Real-time ambulance tracking  
-- 🧠 Smart route prediction (traffic-aware)  
-- ☁️ Built using AWS (Lambda, DynamoDB, Location Service)  
-
-**🔗 Links:**
-- 💻 GitHub: https://github.com/Tanvib24/emergency-response-system.git
-- 🌐 Live Demo: https://emergency-response-system-nine-black.vercel.app/
+<p align="center">
+  <a href="https://github.com/Tanvib24/emergency-response-system">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repository-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://emergency-response-system-nine-black.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-green?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,react,nodejs,python,java,js,ts,flutter,docker,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=aws,react,nodejs,python,java,js,ts" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanvib24&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvib24&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🧠 Currently Exploring
 
-- ⚡ System Design for scalable apps  
+<img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- ⚡ Scalable system design  
 - 🗺️ Real-time location systems  
-- 🤖 AI-powered assistants  
-- ☁️ Advanced AWS architecture  
+- 🤖 AI integrations  
+- ☁️ Advanced AWS  
 
 ---
 
@@ -65,15 +73,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanvi-bandebuche-251706292/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Tanvi%20Bandebuche-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:tanvibandebuche24@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQ6qZlFiwE/giphy.gif" width="200"/>
+</p>
 
-> I don’t just build projects — I design systems that can scale in the real world 🚀
+<p align="center">
+  ⚡ Building systems that matter, not just projects ⚡
+</p>
