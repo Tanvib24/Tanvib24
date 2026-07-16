@@ -36,7 +36,6 @@
 name:       Tanvi Bandebuche
 role:       Full Stack Developer | AI/ML Engineer | Research Author
 education:  B.Tech CSE @ Symbiosis Institute of Technology (2023–2027)
-gpa:        7.37
 location:   Nagpur, India
 experience: Full Stack Intern @ Freshtronics Technologies
 published:  IEEE Xplore + Springer LNEE
