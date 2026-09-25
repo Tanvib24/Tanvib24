@@ -1,16 +1,22 @@
 <!--
-  ⚠️ BEFORE YOU PUSH THIS:
-  1. Search for "TODO" below and replace every placeholder link with your real repo/demo URLs.
-  2. Your phone number has been removed on purpose — public profiles are spam bait for it.
-  3. Swap the theme name in the shields.io / github-readme-stats URLs if you want a different color palette
-     (currently using "tokyonight" — other options: radical, dracula, gruvbox, github_dark, synthwave).
+  ⚠️ SETUP CHECKLIST — do these or parts of this README will show broken images:
+
+  1. Replace every "#" TODO link with your real repo/demo URLs (search for "TODO").
+  2. Push the two workflow files that came with this README:
+       .github/workflows/snake.yml               → generates the animated contribution-snake
+       .github/workflows/profile-3d-contrib.yml   → generates the 3D contribution graph
+  3. Go to Settings → Actions → General → Workflow permissions → "Read and write permissions" → Save.
+  4. Go to the Actions tab and manually run both workflows once (Run workflow button) so the
+     first images exist. After that they auto-refresh every 6 hours.
+  5. The snake workflow pushes to a branch called "output" — GitHub creates it automatically,
+     you don't need to make it yourself.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:22D3EE&height=200&section=header&text=Hi%20👋%20I'm%20Tanvi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20AI%2FML%20Engineer%20·%20Research%20Author&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F97316,50:A78BFA,100:22D3EE&height=220&section=header&text=Hi%20👋%20I'm%20Tanvi&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20·%20AI%2FML%20Engineer%20·%20Research%20Author&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+systems+that+matter%2C+not+just+projects;AI-powered+real-world+systems+%26+cloud+infra;B.Tech+CSE+%40+Symbiosis+Institute+of+Technology;Published+Author+%E2%80%94+IEEE+Xplore+%2B+Springer+LNEE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2200&pause=800&color=F97316&center=true&vCenter=true&width=650&lines=Building+systems+that+matter%2C+not+just+projects;AI-powered+real-world+systems+%26+cloud+infra;B.Tech+CSE+%40+Symbiosis+Institute+of+Technology;Published+Author+%E2%80%94+IEEE+Xplore+%2B+Springer+LNEE;Currently+debugging+the+universe...+one+commit+at+a+time" alt="Typing SVG" />
 
 <br/>
 
@@ -19,15 +25,24 @@
 <a href="https://portfolio-peach-one-hj5g20wzsv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/Tanvib24"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Tanvib24&style=for-the-badge&color=F97316&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Tanvib24?style=for-the-badge&color=A78BFA&labelColor=black" />
+
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:A78BFA,100:22D3EE&height=3&section=header" width="100%"/>
 
 ## 🧭 About Me
 
 I'm a final-year CSE student who likes turning AI/ML ideas into things that actually run in production — real-time systems, cloud-connected IoT, and full-stack apps with a research-backed core. Two of my projects have gone all the way to peer-reviewed publication (IEEE Xplore + Springer LNEE). Currently interning, currently shipping, currently curious about agentic AI and scalable system design.
 
-<br/>
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=dark" width="450" alt="a random dev joke that changes every time this page loads" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A78BFA,100:F97316&height=3&section=header" width="100%"/>
 
 ## ⚡ Quick Facts
 
@@ -48,7 +63,23 @@ focus:       AI-powered systems · cloud infra · IoT analytics
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:A78BFA,100:22D3EE&height=3&section=header" width="100%"/>
+
+## 🐍 The Game: Snake Eats My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanvib24/Tanvib24/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanvib24/Tanvib24/output/github-contribution-grid-snake.svg">
+  <img alt="a snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Tanvib24/Tanvib24/output/github-contribution-grid-snake.svg">
+</picture>
+
+*A snake that literally eats my contribution graph, regenerated every 6 hours by GitHub Actions. This is the closest thing to a "game" static markdown can actually run.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:22D3EE,100:F97316&height=3&section=header" width="100%"/>
 
 ## 🧠 Tech Stack
 
@@ -56,30 +87,30 @@ focus:       AI-powered systems · cloud infra · IoT analytics
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql&theme=dark" />
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,threejs,html,css,js" />
+<img src="https://skillicons.dev/icons?i=react,threejs,html,css,js&theme=dark" />
 
 **Backend & Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase&theme=dark" />
 
 **AI / ML**
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,py" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow,py&theme=dark" /> &nbsp;
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
 **Cloud & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions&theme=dark" />
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:A78BFA,100:22D3EE&height=3&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -172,7 +203,7 @@ AI-driven logistics optimizer for route planning and warehouse operations.
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A78BFA,100:F97316&height=3&section=header" width="100%"/>
 
 ## 📄 Research Publications
 
@@ -184,7 +215,7 @@ AI-driven logistics optimizer for route planning and warehouse operations.
 | 📗 | **Deep Learning-Based Real Time Crop Monitoring And Weed Detection** | [IEEE Xplore](#) |
 | 📘 | **Optimizing Traffic Flow in Traffic Signal Controlling System with AI ML** | [Springer LNEE](#) |
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:A78BFA,100:22D3EE&height=3&section=header" width="100%"/>
 
 ## 💼 Work Experience
 
@@ -194,7 +225,7 @@ AI-driven logistics optimizer for route planning and warehouse operations.
 - Implemented **CRUD operations**, medicine stock tracking, and order management modules
 - Redesigned UI/UX, improving workflow efficiency and reducing task completion time
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:22D3EE,100:F97316&height=3&section=header" width="100%"/>
 
 ## 🏅 Certifications
 
@@ -207,7 +238,7 @@ AI-driven logistics optimizer for route planning and warehouse operations.
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:A78BFA,100:22D3EE&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -226,7 +257,17 @@ AI-driven logistics optimizer for route planning and warehouse operations.
 
 </div>
 
-<br/>
+### 🧊 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tanvib24/Tanvib24/output/profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="animated rotating 3D contribution graph" />
+
+*Auto-generated and rotated every 6 hours by GitHub Actions — the contribution graph, but make it 3D.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A78BFA,100:F97316&height=3&section=header" width="100%"/>
 
 ## 🌱 Currently Exploring
 
@@ -242,6 +283,6 @@ AI-driven logistics optimizer for route planning and warehouse operations.
 *"Building systems that matter, not just projects."*
 **— Tanvi Bandebuche**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:A78BFA&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:22D3EE,50:A78BFA,100:F97316&height=150&section=footer" width="100%"/>
 
 </div>
